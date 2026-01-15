@@ -1,6 +1,8 @@
 # Clickhouse_learn
 Learn and homework for Clickhouse
 
+[Адаптация Clickhouse](https://github.com/Source1024/Clickhouse_learn/blob/main/Homework1.md)
+
 Домашнее задание "Адаптация ClickHouse"
 1) Компания: Пульс. 
 Продукт: Личный кабинет покупателя и поставщика.
