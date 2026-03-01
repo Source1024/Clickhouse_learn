@@ -9,4 +9,4 @@ Learn and homework for Clickhouse
 6. [10.Джоины и агрегации ](https://github.com/Source1024/Clickhouse_learn/blob/main/homework6.pdf)
 7. [11.Словари и оконные функции](https://github.com/Source1024/Clickhouse_learn/blob/main/homework7.pdf)
 8. [12.Проекции и мат. представления](https://github.com/Source1024/Clickhouse_learn/blob/main/homework8.pdf)
-9. [12.Репликация](https://github.com/Source1024/Clickhouse_learn/blob/main/homework9.pdf)
+9. [14.Репликация](https://github.com/Source1024/Clickhouse_learn/blob/main/homework9.pdf)
