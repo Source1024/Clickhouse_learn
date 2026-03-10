@@ -10,4 +10,5 @@ Learn and homework for Clickhouse
 7. [11.Словари и оконные функции](https://github.com/Source1024/Clickhouse_learn/blob/main/homework7.pdf)
 8. [12.Проекции и мат. представления](https://github.com/Source1024/Clickhouse_learn/blob/main/homework8.pdf)
 9. [14.Репликация](https://github.com/Source1024/Clickhouse_learn/blob/main/homework9.pdf)
-10. [14.Шардирование](https://github.com/Source1024/Clickhouse_learn/blob/main/homework10.pdf)
+10. [15.Шардирование](https://github.com/Source1024/Clickhouse_learn/blob/main/homework10.pdf)
+11. [16.Мутации и манипуляции партициями](https://github.com/Source1024/Clickhouse_learn/blob/main/homework11.pdf)
