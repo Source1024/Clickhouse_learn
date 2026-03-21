@@ -13,3 +13,4 @@ Learn and homework for Clickhouse
 10. [15.Шардирование](https://github.com/Source1024/Clickhouse_learn/blob/main/homework10.pdf)
 11. [16.Мутации и манипуляции партициями](https://github.com/Source1024/Clickhouse_learn/blob/main/homework11.pdf)
 12. [18.RBAC доступы, квоты](https://github.com/Source1024/Clickhouse_learn/blob/main/homework12.pdf)
+13. [19.Storage policy](https://github.com/Source1024/Clickhouse_learn/blob/main/homework13.pdf)
