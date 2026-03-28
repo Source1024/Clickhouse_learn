@@ -15,4 +15,4 @@ Learn and homework for Clickhouse
 12. [18.RBAC доступы, квоты](https://github.com/Source1024/Clickhouse_learn/blob/main/homework12.pdf)
 13. [19.Storage policy](https://github.com/Source1024/Clickhouse_learn/blob/main/homework13.pdf)
 14. -
-15. [21.Профилирование запросовy](https://github.com/Source1024/Clickhouse_learn/blob/main/homework15.pdf)
+15. [21.Профилирование запросов](https://github.com/Source1024/Clickhouse_learn/blob/main/homework15.pdf)
