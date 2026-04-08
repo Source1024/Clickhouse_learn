@@ -16,3 +16,4 @@ Learn and homework for Clickhouse
 13. [19.Storage policy](https://github.com/Source1024/Clickhouse_learn/blob/main/homework13.pdf)
 14. [20.Мониторинг и логирование](https://github.com/Source1024/Clickhouse_learn/blob/main/homework14.pdf)
 15. [21.Профилирование запросов](https://github.com/Source1024/Clickhouse_learn/blob/main/homework15.pdf)
+16. [23. Оркестраторы,DI Tools](https://github.com/Source1024/Clickhouse_learn/blob/main/homework16.pdf)
