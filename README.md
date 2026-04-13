@@ -17,5 +17,5 @@ Learn and homework for Clickhouse
 14. [20.Мониторинг и логирование](https://github.com/Source1024/Clickhouse_learn/blob/main/homework14.pdf)
 15. [21.Профилирование запросов](https://github.com/Source1024/Clickhouse_learn/blob/main/homework15.pdf)
 16. [23. Оркестраторы,DI Tools](https://github.com/Source1024/Clickhouse_learn/blob/main/homework16.pdf)
-17. -
+17. [24. Интеграция с Kafka](https://github.com/Source1024/Clickhouse_learn/blob/main/homework17.pdf)
 18. [25. Интеграции с BI](https://github.com/Source1024/Clickhouse_learn/blob/main/homework19.pdf)
