@@ -19,3 +19,4 @@ Learn and homework for Clickhouse
 16. [23. Оркестраторы,DI Tools](https://github.com/Source1024/Clickhouse_learn/blob/main/homework16.pdf)
 17. [24. Интеграция с Kafka](https://github.com/Source1024/Clickhouse_learn/blob/main/homework17.pdf)
 18. [25. Интеграции с BI](https://github.com/Source1024/Clickhouse_learn/blob/main/homework19.pdf)
+19. [26. PG_Greenplum](https://github.com/Source1024/Clickhouse_learn/blob/main/homework20.pdf)
